@@ -6,3 +6,13 @@
 .App {
   margin: 30px;
 }
+footer a {
+  text-decoration: none;
+  text-align: center;
+}
+header {
+  margin: 30px;
+}
+footer {
+  margin: 30px;
+}
