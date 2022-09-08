@@ -1,18 +1,21 @@
-.App img {
-  display: block;
-  max-width: 700px;
-  margin: 0 auto;
-}
 .App {
-  margin: 30px;
+  background-color: #f3f1eb;
+  padding-top: 30px;
+  font-family: ProximaNova, Helvetica, Arial, sans-serif;
 }
-footer a {
+
+.App footer a {
   text-decoration: none;
   text-align: center;
+  color: black;
 }
-header {
-  margin: 30px;
+.App header {
+  text-align: center;
 }
-footer {
-  margin: 30px;
+.App footer {
+  padding: 30px;
+}
+.App img {
+  max-width: 300px;
+  border-radius: 6px;
 }
