@@ -8,10 +8,10 @@ export default function App() {
       <div className="container">
         <header>
           <h1 className="header">Dictionary</h1>
-          <img src={dictionary} alt="dictionary" />
+          <img src={dictionary} alt="dictionary" className="logo" />
         </header>
         <main>
-          <Dictionary defaultKeyword="Dictionary" />
+          <Dictionary defaultKeyword="Word" />
         </main>
         <footer className="text-center">
           <small>

@@ -2,6 +2,8 @@
   background-color: #f3f1eb;
   padding-top: 30px;
   font-family: ProximaNova, Helvetica, Arial, sans-serif;
+  max-width: 960px;
+  margin: 0 auto;
 }
 
 .App footer a {
@@ -15,7 +17,7 @@
 .App footer {
   padding: 30px;
 }
-.App img {
+.App .logo {
   max-width: 300px;
   border-radius: 6px;
 }
